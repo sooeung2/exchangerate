@@ -1,4 +1,4 @@
-##Exchange Rate
+#Exchange Rate
 
 Exchange Rate is a service that provides latest and historical exchange rate for the currency.
 
