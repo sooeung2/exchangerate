@@ -6,8 +6,10 @@ import MenuItem from 'material-ui/MenuItem';
 import AppBar from 'material-ui/AppBar';
 
 
+//Presentational component for renddering input field
+
 const CurrencyConverterView = (props) => {
-	
+
 	return (
 		<div>
 			<TextField

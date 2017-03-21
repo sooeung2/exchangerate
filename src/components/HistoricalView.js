@@ -1,6 +1,8 @@
 import React from 'react';
 import DatePicker from 'material-ui/DatePicker';
 
+//Presentational component for rendering hisotical picker
+//The date makes sure it can't select the future date and before 1/1/99
 
 const HistoricalView = ({message, onChange}) => {
 	return(
